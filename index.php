@@ -25,7 +25,7 @@ include("foot.php")
 
 
 <script>
-    document.title = "ElProfesor";
+    document.title = "Dany Mitte";
     document.getElementById("foto").src = "./images/dany.jpg";
     document.getElementById("elnombre").innerHTML = "Dany Mitte";
 
