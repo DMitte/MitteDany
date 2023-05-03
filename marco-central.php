@@ -23,7 +23,7 @@
 
 
 
-         <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fiscal mixto Margarita Cortes donde me gradue en el año 2018, de la especialidad de Informatica</p>
+         <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fiscal mixto Margarita Cortes donde me gradue en el año 2019, de la especialidad de Informatica</p>
          <div id="blog-seccion3" style="height: 50px;"></div>
 
          <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2>
